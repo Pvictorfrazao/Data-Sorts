@@ -4,7 +4,7 @@ public class BenchmarkData {
     public String cenario;
     public double tempoExecucao;
 
-    // Construtor
+ 
     public BenchmarkData(String algoritmo, int tamanhoAmostra, String cenario, double tempoExecucao) {
         this.algoritmo = algoritmo;
         this.tamanhoAmostra = tamanhoAmostra;
