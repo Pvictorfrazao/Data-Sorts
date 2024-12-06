@@ -56,7 +56,7 @@ A partir dos resultados obtidos, observou-se:
 
 2- Foi observado uma discrepância grande entre os tempos de execução do algoritmo de ordenação BubbleSort em relação aos demais. A partir disso pode-se afirmar que um algoritmo n² (BubbleSort) é menos eficiente que um de n*log(n) (ShellSort, MergeSort e QuickSort);
 
-3- Os testes de String foram realizados com 3 caracteres e 3 vezes em cada máquina. Pois os arrays foram organizados da mesma forma que nos de inteiros (Crescente, Decrescente e Aleatório);
+3- Os testes de String foram realizados com 3 caracteres e 3 vezes em cada máquina. Pois os arrays foram organizados da mesma forma que nos de inteiros (Crescente, Decrescente e Aleatório), logo, fazer os testes 31 vezes seria demorado demais;
 
 4- A máquina 2 teve queda de desempenho pois conta com vídeo integrado do processador, ocasionando uma perfomace parecida com a da máquina 1 em alguns casos, mesmo possuindo 8 GB de RAM a mais. Outro motivo pode estar relacionado a organização dos arrays aleatórios, que podem ter sido gerados de forma mais organizada nos testes da máquina 1 e menos organizados nos da máquina 2;
 
