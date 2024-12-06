@@ -48,22 +48,6 @@
        10.Preparar relatórios e apresentações que descrevem os resultados e
           conclusões do estudo.
 
-## Discussão dos Resultados
-
-A partir dos resultados obtidos, observou-se:
-
-1- O processador intel da máquina 1 é melhor pra multiprocessamento, porém devido a ter apenas 8 GB de memória RAM, precisa de mais memória virtual, ocasionado queda no desempenho geral;
-
-2- Foi observado uma discrepância grande entre os tempos de execução do algoritmo de ordenação BubbleSort em relação aos demais. A partir disso pode-se afirmar que um algoritmo n² (BubbleSort) é menos eficiente que um de n*log(n) (ShellSort, MergeSort e QuickSort);
-
-3- Os testes de String foram realizados com 3 caracteres e 3 vezes em cada máquina. Pois os arrays foram organizados da mesma forma que nos de inteiros (Crescente, Decrescente e Aleatório), logo, fazer os testes 31 vezes seria demorado demais;
-
-4- A máquina 2 teve queda de desempenho pois conta com vídeo integrado do processador, ocasionando uma perfomace parecida com a da máquina 1 em alguns casos, mesmo possuindo 8 GB de RAM a mais. Outro motivo pode estar relacionado a organização dos arrays aleatórios, que podem ter sido gerados de forma mais organizada nos testes da máquina 1 e menos organizados nos da máquina 2;
-
-5- O número de 31 testes para os arrays de inteiros foi escolhido pois é o mais otimizado. Não é nem muito grande nem muito pequeno;
-
-6- O QuickSort teve uma perfomace pior que o ShellSort e o MergeSort por seu pivô ser escolhido aleatoriamente. O pivô teve que ser escolhido dessa forma pois, caso contrário, ocasionava um erro no código durante os testes. Esse erro ocorria porque ele ocupava muito tempo tentando achar o melhor pivô, oque consumia muita memória da máquina.
-
 ## Participantes
 
 ### Ana Clara Oliveira Baratinha 
