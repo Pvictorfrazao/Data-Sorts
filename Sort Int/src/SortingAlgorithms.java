@@ -8,7 +8,7 @@ public class SortingAlgorithms {
         for (int i = 0; i < n - 1; i++) {
             for (int j = 0; j < n - i - 1; j++) {
                 if (arr[j] > arr[j + 1]) {
-                    // Troca arr[j] e arr[j+1]
+                   
                     int temp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
@@ -27,35 +27,34 @@ public class SortingAlgorithms {
     }
 
     private static int partition(int[] arr, int low, int high) {
-        // Escolha um índice aleatório como pivô
+        
         int randomIndex = low + (int)(Math.random() * (high - low + 1));
         
-        // Troque o pivô aleatório com o último elemento
+       
         int temp = arr[randomIndex];
         arr[randomIndex] = arr[high];
         arr[high] = temp;
     
-        // Defina o pivô como o último elemento
+        
         int pivot = arr[high];
         int i = low - 1;
     
-        // Particione o array em relação ao pivô
+      
         for (int j = low; j < high; j++) {
             if (arr[j] < pivot) {
                 i++;
-                // Troca arr[i] e arr[j]
+             
                 temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
             }
         }
     
-        // Coloque o pivô na posição correta
+
         temp = arr[i + 1];
         arr[i + 1] = arr[high];
         arr[high] = temp;
     
-        // Retorne o índice do pivô
         return i + 1;
     }
 
