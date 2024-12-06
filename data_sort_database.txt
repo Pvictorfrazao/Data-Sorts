@@ -1,0 +1,50 @@
+CREATE TABLE maquina (
+    id_maquina SERIAL PRIMARY KEY,
+    processador VARCHAR(100),
+    ram VARCHAR(20),
+    sistema_operacional VARCHAR(30)
+);
+
+CREATE TABLE desempenho (
+    id_desempenho SERIAL PRIMARY KEY,
+    id_maquina_fk INT,
+    tempo_processamento DOUBLE PRECISION,
+    tamanho_amostra INT,
+    algoritmo VARCHAR(50),
+    cenarios VARCHAR(50),
+    tipo_dado VARCHAR(20),
+    FOREIGN KEY (id_maquina_fk) REFERENCES maquina(id_maquina)  -- Definição da chave estrangeira
+);
+
+insert into maquina (processador, ram, sistema_operacional) values ('intel core i5-1135G7', '8 GB', 'windows 11');
+insert into maquina (processador, ram, sistema_operacional) values ('amd ryzen 5 5600g', '16 GB', 'windows 11');
+insert into maquina (processador, ram, sistema_operacional) values ('amd ryzen 7 5700x', '16 GB', 'windows 11');
+
+COPY desempenho(algoritmo, tamanho_amostra, cenarios, tempo_processamento, id_maquina_fk, tipo_dado)
+FROM 'C:\\CSVs\\resultados_benchmark_int_completo_3.0_Tony.csv'
+DELIMITER ',' CSV HEADER;
+
+COPY desempenho(algoritmo, tamanho_amostra, cenarios, tempo_processamento, id_maquina_fk, tipo_dado)
+FROM 'C:\\CSVs\\resultados_benchmark_string_completo_2.0_Tony.csv'
+DELIMITER ',' CSV HEADER;
+
+COPY desempenho(algoritmo, tamanho_amostra, cenarios, tempo_processamento, id_maquina_fk, tipo_dado)
+FROM 'C:\\CSVs\\resultados_benchmark_int_completo_2.0_Paulo.csv'
+DELIMITER ',' CSV HEADER;
+
+COPY desempenho(algoritmo, tamanho_amostra, cenarios, tempo_processamento, id_maquina_fk, tipo_dado)
+FROM 'C:\\CSVs\\resultados_benchmark_string_completo_2.0_Paulo.csv'
+DELIMITER ',' CSV HEADER;
+
+COPY desempenho(algoritmo, tamanho_amostra, cenarios, tempo_processamento, id_maquina_fk, tipo_dado)
+FROM 'C:\\CSVs\\resultados_benchmark_int_completo_4.0_Gabriel.csv'
+DELIMITER ',' CSV HEADER;
+
+COPY desempenho(algoritmo, tamanho_amostra, cenarios, tempo_processamento, id_maquina_fk, tipo_dado)
+FROM 'C:\\CSVs\\resultados_benchmark_string_completo_2.0_Gabriel.csv'
+DELIMITER ',' CSV HEADER;
+
+select * from desempenho
+limit 30
+
+select * from maquina
