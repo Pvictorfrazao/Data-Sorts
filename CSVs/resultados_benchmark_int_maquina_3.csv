@@ -1,0 +1,1117 @@
+Algoritmo,Tamanho,Amostra,TempoExecucao,fk,tipo_dado
+BubbleSort,10000,Ordenado crescente,12649.3,3,int
+QuickSort,10000,Ordenado crescente,1609.2,3,int
+ShellSort,10000,Ordenado crescente,2369.8,3,int
+MergeSort,10000,Ordenado crescente,1701.8,3,int
+BubbleSort,100000,Ordenado crescente,686384.1,3,int
+QuickSort,100000,Ordenado crescente,2927.7,3,int
+ShellSort,100000,Ordenado crescente,389.8,3,int
+MergeSort,100000,Ordenado crescente,5302.1,3,int
+BubbleSort,500000,Ordenado crescente,17061676.1,3,int
+QuickSort,500000,Ordenado crescente,14986.3,3,int
+ShellSort,500000,Ordenado crescente,1563.6,3,int
+MergeSort,500000,Ordenado crescente,21518.7,3,int
+BubbleSort,10000,Ordenado decrescente,26897.4,3,int
+QuickSort,10000,Ordenado decrescente,288.7,3,int
+ShellSort,10000,Ordenado decrescente,1021.6,3,int
+MergeSort,10000,Ordenado decrescente,1054.9,3,int
+BubbleSort,100000,Ordenado decrescente,2267482.8,3,int
+QuickSort,100000,Ordenado decrescente,3080.9,3,int
+ShellSort,100000,Ordenado decrescente,3427.3,3,int
+MergeSort,100000,Ordenado decrescente,18166.6,3,int
+BubbleSort,500000,Ordenado decrescente,56884973.4,3,int
+QuickSort,500000,Ordenado decrescente,16298.4,3,int
+ShellSort,500000,Ordenado decrescente,8770.2,3,int
+MergeSort,500000,Ordenado decrescente,27642.7,3,int
+BubbleSort,10000,Aleatório,26941.1,3,int
+QuickSort,10000,Aleatório,473.3,3,int
+ShellSort,10000,Aleatório,537.3,3,int
+MergeSort,10000,Aleatório,720.1,3,int
+BubbleSort,100000,Aleatório,7669307.4,3,int
+QuickSort,100000,Aleatório,6650.4,3,int
+ShellSort,100000,Aleatório,6740.5,3,int
+MergeSort,100000,Aleatório,7756.2,3,int
+BubbleSort,500000,Aleatório,198272073.8,3,int
+QuickSort,500000,Aleatório,69261.6,3,int
+ShellSort,500000,Aleatório,36633.4,3,int
+MergeSort,500000,Aleatório,40912.7,3,int
+BubbleSort,10000,Ordenado crescente,12878.8,3,int
+QuickSort,10000,Ordenado crescente,1301.6,3,int
+ShellSort,10000,Ordenado crescente,2312.7,3,int
+MergeSort,10000,Ordenado crescente,1730.1,3,int
+BubbleSort,100000,Ordenado crescente,686857.0,3,int
+QuickSort,100000,Ordenado crescente,2974.4,3,int
+ShellSort,100000,Ordenado crescente,444.5,3,int
+MergeSort,100000,Ordenado crescente,5616.4,3,int
+BubbleSort,500000,Ordenado crescente,17045869.6,3,int
+QuickSort,500000,Ordenado crescente,15710.8,3,int
+ShellSort,500000,Ordenado crescente,1627.7,3,int
+MergeSort,500000,Ordenado crescente,21591.7,3,int
+BubbleSort,10000,Ordenado decrescente,28357.8,3,int
+QuickSort,10000,Ordenado decrescente,303.9,3,int
+ShellSort,10000,Ordenado decrescente,992.5,3,int
+MergeSort,10000,Ordenado decrescente,3505.7,3,int
+BubbleSort,100000,Ordenado decrescente,2268919.7,3,int
+QuickSort,100000,Ordenado decrescente,3200.6,3,int
+ShellSort,100000,Ordenado decrescente,3380.9,3,int
+MergeSort,100000,Ordenado decrescente,9190.9,3,int
+BubbleSort,500000,Ordenado decrescente,56836750.4,3,int
+QuickSort,500000,Ordenado decrescente,17485.6,3,int
+ShellSort,500000,Ordenado decrescente,9399.1,3,int
+MergeSort,500000,Ordenado decrescente,27970.1,3,int
+BubbleSort,10000,Aleatório,26795.7,3,int
+QuickSort,10000,Aleatório,471.7,3,int
+ShellSort,10000,Aleatório,552.1,3,int
+MergeSort,10000,Aleatório,721.7,3,int
+BubbleSort,100000,Aleatório,7801989.0,3,int
+QuickSort,100000,Aleatório,5988.9,3,int
+ShellSort,100000,Aleatório,6671.7,3,int
+MergeSort,100000,Aleatório,7745.2,3,int
+BubbleSort,500000,Aleatório,201929085.7,3,int
+QuickSort,500000,Aleatório,51489.2,3,int
+ShellSort,500000,Aleatório,38409.9,3,int
+MergeSort,500000,Aleatório,40999.4,3,int
+BubbleSort,10000,Ordenado crescente,12786.6,3,int
+QuickSort,10000,Ordenado crescente,1742.9,3,int
+ShellSort,10000,Ordenado crescente,2202.0,3,int
+MergeSort,10000,Ordenado crescente,1382.2,3,int
+BubbleSort,100000,Ordenado crescente,685939.3,3,int
+QuickSort,100000,Ordenado crescente,3087.4,3,int
+ShellSort,100000,Ordenado crescente,4433.8,3,int
+MergeSort,100000,Ordenado crescente,5361.5,3,int
+BubbleSort,500000,Ordenado crescente,17082206.2,3,int
+QuickSort,500000,Ordenado crescente,15611.7,3,int
+ShellSort,500000,Ordenado crescente,1631.0,3,int
+MergeSort,500000,Ordenado crescente,21756.4,3,int
+BubbleSort,10000,Ordenado decrescente,28103.8,3,int
+QuickSort,10000,Ordenado decrescente,305.7,3,int
+ShellSort,10000,Ordenado decrescente,1043.8,3,int
+MergeSort,10000,Ordenado decrescente,1121.9,3,int
+BubbleSort,100000,Ordenado decrescente,2284936.5,3,int
+QuickSort,100000,Ordenado decrescente,3250.6,3,int
+ShellSort,100000,Ordenado decrescente,3374.9,3,int
+MergeSort,100000,Ordenado decrescente,9479.2,3,int
+BubbleSort,500000,Ordenado decrescente,57197454.3,3,int
+QuickSort,500000,Ordenado decrescente,17429.7,3,int
+ShellSort,500000,Ordenado decrescente,9148.7,3,int
+MergeSort,500000,Ordenado decrescente,27117.7,3,int
+BubbleSort,10000,Aleatório,26739.5,3,int
+QuickSort,10000,Aleatório,468.3,3,int
+ShellSort,10000,Aleatório,541.7,3,int
+MergeSort,10000,Aleatório,720.5,3,int
+BubbleSort,100000,Aleatório,7828819.2,3,int
+QuickSort,100000,Aleatório,6104.7,3,int
+ShellSort,100000,Aleatório,6649.0,3,int
+MergeSort,100000,Aleatório,7738.9,3,int
+BubbleSort,500000,Aleatório,202259428.9,3,int
+QuickSort,500000,Aleatório,51527.1,3,int
+ShellSort,500000,Aleatório,38135.4,3,int
+MergeSort,500000,Aleatório,43283.7,3,int
+BubbleSort,10000,Ordenado crescente,12849.8,3,int
+QuickSort,10000,Ordenado crescente,1854.4,3,int
+ShellSort,10000,Ordenado crescente,2292.1,3,int
+MergeSort,10000,Ordenado crescente,1325.1,3,int
+BubbleSort,100000,Ordenado crescente,698789.9,3,int
+QuickSort,100000,Ordenado crescente,2906.2,3,int
+ShellSort,100000,Ordenado crescente,4501.2,3,int
+MergeSort,100000,Ordenado crescente,5350.5,3,int
+BubbleSort,500000,Ordenado crescente,17093019.1,3,int
+QuickSort,500000,Ordenado crescente,16030.6,3,int
+ShellSort,500000,Ordenado crescente,1649.6,3,int
+MergeSort,500000,Ordenado crescente,21672.6,3,int
+BubbleSort,10000,Ordenado decrescente,28073.6,3,int
+QuickSort,10000,Ordenado decrescente,313.4,3,int
+ShellSort,10000,Ordenado decrescente,1027.8,3,int
+MergeSort,10000,Ordenado decrescente,1425.7,3,int
+BubbleSort,100000,Ordenado decrescente,2268869.3,3,int
+QuickSort,100000,Ordenado decrescente,3187.7,3,int
+ShellSort,100000,Ordenado decrescente,3388.2,3,int
+MergeSort,100000,Ordenado decrescente,17294.3,3,int
+BubbleSort,500000,Ordenado decrescente,56855743.5,3,int
+QuickSort,500000,Ordenado decrescente,17579.8,3,int
+ShellSort,500000,Ordenado decrescente,9216.8,3,int
+MergeSort,500000,Ordenado decrescente,32666.5,3,int
+BubbleSort,10000,Aleatório,26771.4,3,int
+QuickSort,10000,Aleatório,490.7,3,int
+ShellSort,10000,Aleatório,534.3,3,int
+MergeSort,10000,Aleatório,748.7,3,int
+BubbleSort,100000,Aleatório,7814289.6,3,int
+QuickSort,100000,Aleatório,6084.4,3,int
+ShellSort,100000,Aleatório,6734.3,3,int
+MergeSort,100000,Aleatório,8098.0,3,int
+BubbleSort,500000,Aleatório,201755630.9,3,int
+QuickSort,500000,Aleatório,50292.8,3,int
+ShellSort,500000,Aleatório,37529.5,3,int
+MergeSort,500000,Aleatório,43780.6,3,int
+BubbleSort,10000,Ordenado crescente,12982.3,3,int
+QuickSort,10000,Ordenado crescente,1650.5,3,int
+ShellSort,10000,Ordenado crescente,2407.9,3,int
+MergeSort,10000,Ordenado crescente,1356.6,3,int
+BubbleSort,100000,Ordenado crescente,692897.3,3,int
+QuickSort,100000,Ordenado crescente,3018.1,3,int
+ShellSort,100000,Ordenado crescente,408.6,3,int
+MergeSort,100000,Ordenado crescente,5318.9,3,int
+BubbleSort,500000,Ordenado crescente,17039963.7,3,int
+QuickSort,500000,Ordenado crescente,16431.0,3,int
+ShellSort,500000,Ordenado crescente,1572.6,3,int
+MergeSort,500000,Ordenado crescente,21854.3,3,int
+BubbleSort,10000,Ordenado decrescente,27946.5,3,int
+QuickSort,10000,Ordenado decrescente,312.3,3,int
+ShellSort,10000,Ordenado decrescente,988.6,3,int
+MergeSort,10000,Ordenado decrescente,1111.0,3,int
+BubbleSort,100000,Ordenado decrescente,2266307.8,3,int
+QuickSort,100000,Ordenado decrescente,3321.3,3,int
+ShellSort,100000,Ordenado decrescente,3374.6,3,int
+MergeSort,100000,Ordenado decrescente,18210.9,3,int
+BubbleSort,500000,Ordenado decrescente,56815688.8,3,int
+QuickSort,500000,Ordenado decrescente,16977.8,3,int
+ShellSort,500000,Ordenado decrescente,9159.8,3,int
+MergeSort,500000,Ordenado decrescente,27111.4,3,int
+BubbleSort,10000,Aleatório,26909.9,3,int
+QuickSort,10000,Aleatório,475.7,3,int
+ShellSort,10000,Aleatório,551.3,3,int
+MergeSort,10000,Aleatório,726.8,3,int
+BubbleSort,100000,Aleatório,7787151.2,3,int
+QuickSort,100000,Aleatório,6126.4,3,int
+ShellSort,100000,Aleatório,6758.3,3,int
+MergeSort,100000,Aleatório,7755.2,3,int
+BubbleSort,500000,Aleatório,201943465.0,3,int
+QuickSort,500000,Aleatório,51121.2,3,int
+ShellSort,500000,Aleatório,37379.8,3,int
+MergeSort,500000,Aleatório,41338.7,3,int
+BubbleSort,10000,Ordenado crescente,13611.5,3,int
+QuickSort,10000,Ordenado crescente,1644.2,3,int
+ShellSort,10000,Ordenado crescente,2350.9,3,int
+MergeSort,10000,Ordenado crescente,1357.6,3,int
+BubbleSort,100000,Ordenado crescente,687743.3,3,int
+QuickSort,100000,Ordenado crescente,2891.5,3,int
+ShellSort,100000,Ordenado crescente,386.8,3,int
+MergeSort,100000,Ordenado crescente,5292.8,3,int
+BubbleSort,500000,Ordenado crescente,17073262.2,3,int
+QuickSort,500000,Ordenado crescente,14762.1,3,int
+ShellSort,500000,Ordenado crescente,1563.4,3,int
+MergeSort,500000,Ordenado crescente,21388.2,3,int
+BubbleSort,10000,Ordenado decrescente,26647.2,3,int
+QuickSort,10000,Ordenado decrescente,295.0,3,int
+ShellSort,10000,Ordenado decrescente,1008.1,3,int
+MergeSort,10000,Ordenado decrescente,1268.7,3,int
+BubbleSort,100000,Ordenado decrescente,2267435.2,3,int
+QuickSort,100000,Ordenado decrescente,3113.9,3,int
+ShellSort,100000,Ordenado decrescente,3235.2,3,int
+MergeSort,100000,Ordenado decrescente,9604.2,3,int
+BubbleSort,500000,Ordenado decrescente,56830240.4,3,int
+QuickSort,500000,Ordenado decrescente,16468.2,3,int
+ShellSort,500000,Ordenado decrescente,9151.3,3,int
+MergeSort,500000,Ordenado decrescente,28835.1,3,int
+BubbleSort,10000,Aleatório,26636.2,3,int
+QuickSort,10000,Aleatório,470.3,3,int
+ShellSort,10000,Aleatório,554.7,3,int
+MergeSort,10000,Aleatório,723.8,3,int
+BubbleSort,100000,Aleatório,7680943.9,3,int
+QuickSort,100000,Aleatório,6693.5,3,int
+ShellSort,100000,Aleatório,6765.0,3,int
+MergeSort,100000,Aleatório,7840.4,3,int
+BubbleSort,500000,Aleatório,198329770.3,3,int
+QuickSort,500000,Aleatório,69120.7,3,int
+ShellSort,500000,Aleatório,37486.6,3,int
+MergeSort,500000,Aleatório,42783.9,3,int
+BubbleSort,10000,Ordenado crescente,12441.2,3,int
+QuickSort,10000,Ordenado crescente,2291.7,3,int
+ShellSort,10000,Ordenado crescente,2104.4,3,int
+MergeSort,10000,Ordenado crescente,1566.1,3,int
+BubbleSort,100000,Ordenado crescente,691675.5,3,int
+QuickSort,100000,Ordenado crescente,2892.4,3,int
+ShellSort,100000,Ordenado crescente,401.5,3,int
+MergeSort,100000,Ordenado crescente,5409.9,3,int
+BubbleSort,500000,Ordenado crescente,17093619.5,3,int
+QuickSort,500000,Ordenado crescente,15104.6,3,int
+ShellSort,500000,Ordenado crescente,1575.9,3,int
+MergeSort,500000,Ordenado crescente,21490.7,3,int
+BubbleSort,10000,Ordenado decrescente,27519.9,3,int
+QuickSort,10000,Ordenado decrescente,298.2,3,int
+ShellSort,10000,Ordenado decrescente,1382.6,3,int
+MergeSort,10000,Ordenado decrescente,1316.7,3,int
+BubbleSort,100000,Ordenado decrescente,2271215.2,3,int
+QuickSort,100000,Ordenado decrescente,3117.2,3,int
+ShellSort,100000,Ordenado decrescente,3151.4,3,int
+MergeSort,100000,Ordenado decrescente,20428.4,3,int
+BubbleSort,500000,Ordenado decrescente,56816571.0,3,int
+QuickSort,500000,Ordenado decrescente,16417.5,3,int
+ShellSort,500000,Ordenado decrescente,8767.9,3,int
+MergeSort,500000,Ordenado decrescente,26363.1,3,int
+BubbleSort,10000,Aleatório,25832.1,3,int
+QuickSort,10000,Aleatório,476.2,3,int
+ShellSort,10000,Aleatório,528.6,3,int
+MergeSort,10000,Aleatório,712.5,3,int
+BubbleSort,100000,Aleatório,7517633.7,3,int
+QuickSort,100000,Aleatório,6658.5,3,int
+ShellSort,100000,Aleatório,6534.9,3,int
+MergeSort,100000,Aleatório,10431.9,3,int
+BubbleSort,500000,Aleatório,195804983.6,3,int
+QuickSort,500000,Aleatório,68830.7,3,int
+ShellSort,500000,Aleatório,37651.6,3,int
+MergeSort,500000,Aleatório,43954.0,3,int
+BubbleSort,10000,Ordenado crescente,13301.2,3,int
+QuickSort,10000,Ordenado crescente,1684.9,3,int
+ShellSort,10000,Ordenado crescente,2134.2,3,int
+MergeSort,10000,Ordenado crescente,1330.4,3,int
+BubbleSort,100000,Ordenado crescente,691700.5,3,int
+QuickSort,100000,Ordenado crescente,3209.7,3,int
+ShellSort,100000,Ordenado crescente,4465.2,3,int
+MergeSort,100000,Ordenado crescente,5570.6,3,int
+BubbleSort,500000,Ordenado crescente,17053310.7,3,int
+QuickSort,500000,Ordenado crescente,15336.3,3,int
+ShellSort,500000,Ordenado crescente,1580.1,3,int
+MergeSort,500000,Ordenado crescente,21361.2,3,int
+BubbleSort,10000,Ordenado decrescente,27927.8,3,int
+QuickSort,10000,Ordenado decrescente,314.1,3,int
+ShellSort,10000,Ordenado decrescente,1231.0,3,int
+MergeSort,10000,Ordenado decrescente,1282.4,3,int
+BubbleSort,100000,Ordenado decrescente,2267450.5,3,int
+QuickSort,100000,Ordenado decrescente,3254.9,3,int
+ShellSort,100000,Ordenado decrescente,3171.2,3,int
+MergeSort,100000,Ordenado decrescente,9564.5,3,int
+BubbleSort,500000,Ordenado decrescente,56845335.0,3,int
+QuickSort,500000,Ordenado decrescente,17528.9,3,int
+ShellSort,500000,Ordenado decrescente,8783.9,3,int
+MergeSort,500000,Ordenado decrescente,27293.0,3,int
+BubbleSort,10000,Aleatório,26930.0,3,int
+QuickSort,10000,Aleatório,467.8,3,int
+ShellSort,10000,Aleatório,536.8,3,int
+MergeSort,10000,Aleatório,726.1,3,int
+BubbleSort,100000,Aleatório,7817776.0,3,int
+QuickSort,100000,Aleatório,6025.3,3,int
+ShellSort,100000,Aleatório,6628.0,3,int
+MergeSort,100000,Aleatório,7793.8,3,int
+BubbleSort,500000,Aleatório,201660277.8,3,int
+QuickSort,500000,Aleatório,50687.7,3,int
+ShellSort,500000,Aleatório,37184.7,3,int
+MergeSort,500000,Aleatório,41941.7,3,int
+BubbleSort,10000,Ordenado crescente,13527.4,3,int
+QuickSort,10000,Ordenado crescente,1506.2,3,int
+ShellSort,10000,Ordenado crescente,2447.0,3,int
+MergeSort,10000,Ordenado crescente,1417.9,3,int
+BubbleSort,100000,Ordenado crescente,691754.7,3,int
+QuickSort,100000,Ordenado crescente,3071.3,3,int
+ShellSort,100000,Ordenado crescente,4146.1,3,int
+MergeSort,100000,Ordenado crescente,5714.2,3,int
+BubbleSort,500000,Ordenado crescente,17052025.9,3,int
+QuickSort,500000,Ordenado crescente,15825.3,3,int
+ShellSort,500000,Ordenado crescente,1614.3,3,int
+MergeSort,500000,Ordenado crescente,22061.2,3,int
+BubbleSort,10000,Ordenado decrescente,27621.0,3,int
+QuickSort,10000,Ordenado decrescente,318.3,3,int
+ShellSort,10000,Ordenado decrescente,1004.2,3,int
+MergeSort,10000,Ordenado decrescente,1260.7,3,int
+BubbleSort,100000,Ordenado decrescente,2269152.7,3,int
+QuickSort,100000,Ordenado decrescente,3254.8,3,int
+ShellSort,100000,Ordenado decrescente,3256.6,3,int
+MergeSort,100000,Ordenado decrescente,9507.3,3,int
+BubbleSort,500000,Ordenado decrescente,56829060.5,3,int
+QuickSort,500000,Ordenado decrescente,17680.8,3,int
+ShellSort,500000,Ordenado decrescente,9131.2,3,int
+MergeSort,500000,Ordenado decrescente,27080.7,3,int
+BubbleSort,10000,Aleatório,27259.7,3,int
+QuickSort,10000,Aleatório,491.1,3,int
+ShellSort,10000,Aleatório,540.3,3,int
+MergeSort,10000,Aleatório,715.2,3,int
+BubbleSort,100000,Aleatório,7812828.6,3,int
+QuickSort,100000,Aleatório,6064.1,3,int
+ShellSort,100000,Aleatório,6638.7,3,int
+MergeSort,100000,Aleatório,7744.6,3,int
+BubbleSort,500000,Aleatório,202397203.2,3,int
+QuickSort,500000,Aleatório,50007.8,3,int
+ShellSort,500000,Aleatório,38092.8,3,int
+MergeSort,500000,Aleatório,41095.1,3,int
+BubbleSort,10000,Ordenado crescente,12686.0,3,int
+QuickSort,10000,Ordenado crescente,1520.2,3,int
+ShellSort,10000,Ordenado crescente,2349.5,3,int
+MergeSort,10000,Ordenado crescente,1398.7,3,int
+BubbleSort,100000,Ordenado crescente,686825.5,3,int
+QuickSort,100000,Ordenado crescente,2929.4,3,int
+ShellSort,100000,Ordenado crescente,4511.5,3,int
+MergeSort,100000,Ordenado crescente,5664.7,3,int
+BubbleSort,500000,Ordenado crescente,17034794.8,3,int
+QuickSort,500000,Ordenado crescente,15217.0,3,int
+ShellSort,500000,Ordenado crescente,1634.8,3,int
+MergeSort,500000,Ordenado crescente,22031.3,3,int
+BubbleSort,10000,Ordenado decrescente,26915.8,3,int
+QuickSort,10000,Ordenado decrescente,309.0,3,int
+ShellSort,10000,Ordenado decrescente,1024.0,3,int
+MergeSort,10000,Ordenado decrescente,3448.8,3,int
+BubbleSort,100000,Ordenado decrescente,2264121.7,3,int
+QuickSort,100000,Ordenado decrescente,3050.4,3,int
+ShellSort,100000,Ordenado decrescente,3380.8,3,int
+MergeSort,100000,Ordenado decrescente,9193.1,3,int
+BubbleSort,500000,Ordenado decrescente,56875610.9,3,int
+QuickSort,500000,Ordenado decrescente,16485.7,3,int
+ShellSort,500000,Ordenado decrescente,9233.5,3,int
+MergeSort,500000,Ordenado decrescente,26142.3,3,int
+BubbleSort,10000,Aleatório,26861.2,3,int
+QuickSort,10000,Aleatório,460.8,3,int
+ShellSort,10000,Aleatório,551.1,3,int
+MergeSort,10000,Aleatório,905.9,3,int
+BubbleSort,100000,Aleatório,7671648.4,3,int
+QuickSort,100000,Aleatório,6529.2,3,int
+ShellSort,100000,Aleatório,6578.0,3,int
+MergeSort,100000,Aleatório,9965.1,3,int
+BubbleSort,500000,Aleatório,198637720.7,3,int
+QuickSort,500000,Aleatório,70040.0,3,int
+ShellSort,500000,Aleatório,37174.6,3,int
+MergeSort,500000,Aleatório,43077.0,3,int
+BubbleSort,10000,Ordenado crescente,13000.9,3,int
+QuickSort,10000,Ordenado crescente,1749.5,3,int
+ShellSort,10000,Ordenado crescente,2270.6,3,int
+MergeSort,10000,Ordenado crescente,1516.4,3,int
+BubbleSort,100000,Ordenado crescente,688970.2,3,int
+QuickSort,100000,Ordenado crescente,3045.7,3,int
+ShellSort,100000,Ordenado crescente,408.6,3,int
+MergeSort,100000,Ordenado crescente,5256.4,3,int
+BubbleSort,500000,Ordenado crescente,17070444.6,3,int
+QuickSort,500000,Ordenado crescente,15935.5,3,int
+ShellSort,500000,Ordenado crescente,1615.2,3,int
+MergeSort,500000,Ordenado crescente,22169.3,3,int
+BubbleSort,10000,Ordenado decrescente,27202.0,3,int
+QuickSort,10000,Ordenado decrescente,311.7,3,int
+ShellSort,10000,Ordenado decrescente,987.7,3,int
+MergeSort,10000,Ordenado decrescente,1322.4,3,int
+BubbleSort,100000,Ordenado decrescente,2270296.5,3,int
+QuickSort,100000,Ordenado decrescente,3249.8,3,int
+ShellSort,100000,Ordenado decrescente,3283.6,3,int
+MergeSort,100000,Ordenado decrescente,9439.7,3,int
+BubbleSort,500000,Ordenado decrescente,56816421.4,3,int
+QuickSort,500000,Ordenado decrescente,17198.6,3,int
+ShellSort,500000,Ordenado decrescente,9163.0,3,int
+MergeSort,500000,Ordenado decrescente,26956.2,3,int
+BubbleSort,10000,Aleatório,27349.4,3,int
+QuickSort,10000,Aleatório,476.1,3,int
+ShellSort,10000,Aleatório,550.2,3,int
+MergeSort,10000,Aleatório,730.7,3,int
+BubbleSort,100000,Aleatório,7800591.2,3,int
+QuickSort,100000,Aleatório,5971.2,3,int
+ShellSort,100000,Aleatório,6788.1,3,int
+MergeSort,100000,Aleatório,7748.9,3,int
+BubbleSort,500000,Aleatório,201856939.0,3,int
+QuickSort,500000,Aleatório,50299.5,3,int
+ShellSort,500000,Aleatório,38547.5,3,int
+MergeSort,500000,Aleatório,42649.9,3,int
+BubbleSort,10000,Ordenado crescente,13132.0,3,int
+QuickSort,10000,Ordenado crescente,1361.4,3,int
+ShellSort,10000,Ordenado crescente,2230.8,3,int
+MergeSort,10000,Ordenado crescente,1369.4,3,int
+BubbleSort,100000,Ordenado crescente,687965.8,3,int
+QuickSort,100000,Ordenado crescente,3036.1,3,int
+ShellSort,100000,Ordenado crescente,4478.5,3,int
+MergeSort,100000,Ordenado crescente,5333.7,3,int
+BubbleSort,500000,Ordenado crescente,17060502.4,3,int
+QuickSort,500000,Ordenado crescente,15836.0,3,int
+ShellSort,500000,Ordenado crescente,1650.3,3,int
+MergeSort,500000,Ordenado crescente,21758.8,3,int
+BubbleSort,10000,Ordenado decrescente,28122.6,3,int
+QuickSort,10000,Ordenado decrescente,314.0,3,int
+ShellSort,10000,Ordenado decrescente,999.1,3,int
+MergeSort,10000,Ordenado decrescente,1159.6,3,int
+BubbleSort,100000,Ordenado decrescente,2266994.5,3,int
+QuickSort,100000,Ordenado decrescente,3248.8,3,int
+ShellSort,100000,Ordenado decrescente,3402.8,3,int
+MergeSort,100000,Ordenado decrescente,18251.1,3,int
+BubbleSort,500000,Ordenado decrescente,56771854.0,3,int
+QuickSort,500000,Ordenado decrescente,17492.7,3,int
+ShellSort,500000,Ordenado decrescente,9154.6,3,int
+MergeSort,500000,Ordenado decrescente,26413.2,3,int
+BubbleSort,10000,Aleatório,25941.2,3,int
+QuickSort,10000,Aleatório,484.1,3,int
+ShellSort,10000,Aleatório,546.1,3,int
+MergeSort,10000,Aleatório,903.8,3,int
+BubbleSort,100000,Aleatório,7610503.8,3,int
+QuickSort,100000,Aleatório,6006.8,3,int
+ShellSort,100000,Aleatório,6614.7,3,int
+MergeSort,100000,Aleatório,9919.8,3,int
+BubbleSort,500000,Aleatório,196963436.7,3,int
+QuickSort,500000,Aleatório,50745.3,3,int
+ShellSort,500000,Aleatório,37518.8,3,int
+MergeSort,500000,Aleatório,42878.1,3,int
+BubbleSort,10000,Ordenado crescente,13152.6,3,int
+QuickSort,10000,Ordenado crescente,1546.2,3,int
+ShellSort,10000,Ordenado crescente,2503.4,3,int
+MergeSort,10000,Ordenado crescente,1322.2,3,int
+BubbleSort,100000,Ordenado crescente,697437.1,3,int
+QuickSort,100000,Ordenado crescente,2892.2,3,int
+ShellSort,100000,Ordenado crescente,404.1,3,int
+MergeSort,100000,Ordenado crescente,5309.0,3,int
+BubbleSort,500000,Ordenado crescente,17053865.6,3,int
+QuickSort,500000,Ordenado crescente,15245.6,3,int
+ShellSort,500000,Ordenado crescente,1621.6,3,int
+MergeSort,500000,Ordenado crescente,21716.7,3,int
+BubbleSort,10000,Ordenado decrescente,27441.3,3,int
+QuickSort,10000,Ordenado decrescente,290.6,3,int
+ShellSort,10000,Ordenado decrescente,1042.2,3,int
+MergeSort,10000,Ordenado decrescente,1074.4,3,int
+BubbleSort,100000,Ordenado decrescente,2269369.2,3,int
+QuickSort,100000,Ordenado decrescente,3090.9,3,int
+ShellSort,100000,Ordenado decrescente,3391.8,3,int
+MergeSort,100000,Ordenado decrescente,19099.2,3,int
+BubbleSort,500000,Ordenado decrescente,56822890.0,3,int
+QuickSort,500000,Ordenado decrescente,16385.9,3,int
+ShellSort,500000,Ordenado decrescente,9339.9,3,int
+MergeSort,500000,Ordenado decrescente,27341.0,3,int
+BubbleSort,10000,Aleatório,26994.6,3,int
+QuickSort,10000,Aleatório,468.1,3,int
+ShellSort,10000,Aleatório,561.6,3,int
+MergeSort,10000,Aleatório,715.7,3,int
+BubbleSort,100000,Aleatório,7806301.8,3,int
+QuickSort,100000,Aleatório,6631.7,3,int
+ShellSort,100000,Aleatório,6720.9,3,int
+MergeSort,100000,Aleatório,7720.5,3,int
+BubbleSort,500000,Aleatório,202392961.4,3,int
+QuickSort,500000,Aleatório,68758.1,3,int
+ShellSort,500000,Aleatório,38571.9,3,int
+MergeSort,500000,Aleatório,40854.1,3,int
+BubbleSort,10000,Ordenado crescente,13053.5,3,int
+QuickSort,10000,Ordenado crescente,1980.4,3,int
+ShellSort,10000,Ordenado crescente,2764.8,3,int
+MergeSort,10000,Ordenado crescente,1444.1,3,int
+BubbleSort,100000,Ordenado crescente,692250.5,3,int
+QuickSort,100000,Ordenado crescente,2896.3,3,int
+ShellSort,100000,Ordenado crescente,4483.3,3,int
+MergeSort,100000,Ordenado crescente,5662.6,3,int
+BubbleSort,500000,Ordenado crescente,17035278.2,3,int
+QuickSort,500000,Ordenado crescente,15979.3,3,int
+ShellSort,500000,Ordenado crescente,1688.6,3,int
+MergeSort,500000,Ordenado crescente,21519.1,3,int
+BubbleSort,10000,Ordenado decrescente,27662.6,3,int
+QuickSort,10000,Ordenado decrescente,303.2,3,int
+ShellSort,10000,Ordenado decrescente,1220.9,3,int
+MergeSort,10000,Ordenado decrescente,1088.2,3,int
+BubbleSort,100000,Ordenado decrescente,2269631.4,3,int
+QuickSort,100000,Ordenado decrescente,3252.1,3,int
+ShellSort,100000,Ordenado decrescente,3215.3,3,int
+MergeSort,100000,Ordenado decrescente,9511.9,3,int
+BubbleSort,500000,Ordenado decrescente,56881720.1,3,int
+QuickSort,500000,Ordenado decrescente,17144.4,3,int
+ShellSort,500000,Ordenado decrescente,9157.9,3,int
+MergeSort,500000,Ordenado decrescente,26615.7,3,int
+BubbleSort,10000,Aleatório,26830.2,3,int
+QuickSort,10000,Aleatório,476.9,3,int
+ShellSort,10000,Aleatório,537.8,3,int
+MergeSort,10000,Aleatório,723.2,3,int
+BubbleSort,100000,Aleatório,7809377.6,3,int
+QuickSort,100000,Aleatório,6029.4,3,int
+ShellSort,100000,Aleatório,6649.2,3,int
+MergeSort,100000,Aleatório,7706.1,3,int
+BubbleSort,500000,Aleatório,202076055.1,3,int
+QuickSort,500000,Aleatório,51311.3,3,int
+ShellSort,500000,Aleatório,37265.8,3,int
+MergeSort,500000,Aleatório,42194.6,3,int
+BubbleSort,10000,Ordenado crescente,13366.4,3,int
+QuickSort,10000,Ordenado crescente,1392.2,3,int
+ShellSort,10000,Ordenado crescente,2389.3,3,int
+MergeSort,10000,Ordenado crescente,1852.5,3,int
+BubbleSort,100000,Ordenado crescente,701704.2,3,int
+QuickSort,100000,Ordenado crescente,2879.7,3,int
+ShellSort,100000,Ordenado crescente,416.1,3,int
+MergeSort,100000,Ordenado crescente,5252.4,3,int
+BubbleSort,500000,Ordenado crescente,17040307.7,3,int
+QuickSort,500000,Ordenado crescente,15183.6,3,int
+ShellSort,500000,Ordenado crescente,1621.3,3,int
+MergeSort,500000,Ordenado crescente,22042.3,3,int
+BubbleSort,10000,Ordenado decrescente,26746.2,3,int
+QuickSort,10000,Ordenado decrescente,299.1,3,int
+ShellSort,10000,Ordenado decrescente,1021.7,3,int
+MergeSort,10000,Ordenado decrescente,3613.2,3,int
+BubbleSort,100000,Ordenado decrescente,2266088.0,3,int
+QuickSort,100000,Ordenado decrescente,3120.5,3,int
+ShellSort,100000,Ordenado decrescente,3266.9,3,int
+MergeSort,100000,Ordenado decrescente,9355.2,3,int
+BubbleSort,500000,Ordenado decrescente,56904440.8,3,int
+QuickSort,500000,Ordenado decrescente,16941.9,3,int
+ShellSort,500000,Ordenado decrescente,9102.0,3,int
+MergeSort,500000,Ordenado decrescente,27163.1,3,int
+BubbleSort,10000,Aleatório,26696.7,3,int
+QuickSort,10000,Aleatório,468.9,3,int
+ShellSort,10000,Aleatório,554.4,3,int
+MergeSort,10000,Aleatório,726.6,3,int
+BubbleSort,100000,Aleatório,7659264.2,3,int
+QuickSort,100000,Aleatório,6575.6,3,int
+ShellSort,100000,Aleatório,6729.8,3,int
+MergeSort,100000,Aleatório,7708.9,3,int
+BubbleSort,500000,Aleatório,198193499.2,3,int
+QuickSort,500000,Aleatório,69446.2,3,int
+ShellSort,500000,Aleatório,37253.6,3,int
+MergeSort,500000,Aleatório,42427.9,3,int
+BubbleSort,10000,Ordenado crescente,13547.6,3,int
+QuickSort,10000,Ordenado crescente,1599.2,3,int
+ShellSort,10000,Ordenado crescente,2792.3,3,int
+MergeSort,10000,Ordenado crescente,1528.5,3,int
+BubbleSort,100000,Ordenado crescente,689741.3,3,int
+QuickSort,100000,Ordenado crescente,2838.8,3,int
+ShellSort,100000,Ordenado crescente,394.6,3,int
+MergeSort,100000,Ordenado crescente,5290.2,3,int
+BubbleSort,500000,Ordenado crescente,17113491.6,3,int
+QuickSort,500000,Ordenado crescente,15105.7,3,int
+ShellSort,500000,Ordenado crescente,1562.9,3,int
+MergeSort,500000,Ordenado crescente,21872.9,3,int
+BubbleSort,10000,Ordenado decrescente,27694.3,3,int
+QuickSort,10000,Ordenado decrescente,300.5,3,int
+ShellSort,10000,Ordenado decrescente,1069.5,3,int
+MergeSort,10000,Ordenado decrescente,1462.9,3,int
+BubbleSort,100000,Ordenado decrescente,2269552.0,3,int
+QuickSort,100000,Ordenado decrescente,3255.3,3,int
+ShellSort,100000,Ordenado decrescente,3387.9,3,int
+MergeSort,100000,Ordenado decrescente,9546.6,3,int
+BubbleSort,500000,Ordenado decrescente,56801172.9,3,int
+QuickSort,500000,Ordenado decrescente,16461.0,3,int
+ShellSort,500000,Ordenado decrescente,9164.5,3,int
+MergeSort,500000,Ordenado decrescente,26446.9,3,int
+BubbleSort,10000,Aleatório,26146.0,3,int
+QuickSort,10000,Aleatório,477.7,3,int
+ShellSort,10000,Aleatório,549.3,3,int
+MergeSort,10000,Aleatório,719.0,3,int
+BubbleSort,100000,Aleatório,7546061.1,3,int
+QuickSort,100000,Aleatório,6639.5,3,int
+ShellSort,100000,Aleatório,6801.1,3,int
+MergeSort,100000,Aleatório,8093.8,3,int
+BubbleSort,500000,Aleatório,195208539.1,3,int
+QuickSort,500000,Aleatório,70896.8,3,int
+ShellSort,500000,Aleatório,37780.3,3,int
+MergeSort,500000,Aleatório,43825.3,3,int
+BubbleSort,10000,Ordenado crescente,13034.2,3,int
+QuickSort,10000,Ordenado crescente,1737.7,3,int
+ShellSort,10000,Ordenado crescente,2232.8,3,int
+MergeSort,10000,Ordenado crescente,1369.2,3,int
+BubbleSort,100000,Ordenado crescente,706427.8,3,int
+QuickSort,100000,Ordenado crescente,2843.1,3,int
+ShellSort,100000,Ordenado crescente,4480.7,3,int
+MergeSort,100000,Ordenado crescente,5265.8,3,int
+BubbleSort,500000,Ordenado crescente,17061451.0,3,int
+QuickSort,500000,Ordenado crescente,14931.6,3,int
+ShellSort,500000,Ordenado crescente,1585.3,3,int
+MergeSort,500000,Ordenado crescente,21458.8,3,int
+BubbleSort,10000,Ordenado decrescente,28036.5,3,int
+QuickSort,10000,Ordenado decrescente,293.6,3,int
+ShellSort,10000,Ordenado decrescente,1026.3,3,int
+MergeSort,10000,Ordenado decrescente,1286.8,3,int
+BubbleSort,100000,Ordenado decrescente,2263086.3,3,int
+QuickSort,100000,Ordenado decrescente,3151.6,3,int
+ShellSort,100000,Ordenado decrescente,3273.2,3,int
+MergeSort,100000,Ordenado decrescente,9420.9,3,int
+BubbleSort,500000,Ordenado decrescente,56884696.9,3,int
+QuickSort,500000,Ordenado decrescente,16394.4,3,int
+ShellSort,500000,Ordenado decrescente,8784.3,3,int
+MergeSort,500000,Ordenado decrescente,25804.8,3,int
+BubbleSort,10000,Aleatório,26699.0,3,int
+QuickSort,10000,Aleatório,471.0,3,int
+ShellSort,10000,Aleatório,542.1,3,int
+MergeSort,10000,Aleatório,911.6,3,int
+BubbleSort,100000,Aleatório,7658372.4,3,int
+QuickSort,100000,Aleatório,6656.3,3,int
+ShellSort,100000,Aleatório,6585.9,3,int
+MergeSort,100000,Aleatório,10013.1,3,int
+BubbleSort,500000,Aleatório,198371835.0,3,int
+QuickSort,500000,Aleatório,70730.6,3,int
+ShellSort,500000,Aleatório,36847.2,3,int
+MergeSort,500000,Aleatório,41912.0,3,int
+BubbleSort,10000,Ordenado crescente,12773.2,3,int
+QuickSort,10000,Ordenado crescente,1308.0,3,int
+ShellSort,10000,Ordenado crescente,2154.7,3,int
+MergeSort,10000,Ordenado crescente,1520.5,3,int
+BubbleSort,100000,Ordenado crescente,692846.4,3,int
+QuickSort,100000,Ordenado crescente,2893.7,3,int
+ShellSort,100000,Ordenado crescente,407.3,3,int
+MergeSort,100000,Ordenado crescente,5726.4,3,int
+BubbleSort,500000,Ordenado crescente,17021405.0,3,int
+QuickSort,500000,Ordenado crescente,16287.2,3,int
+ShellSort,500000,Ordenado crescente,1595.0,3,int
+MergeSort,500000,Ordenado crescente,21291.6,3,int
+BubbleSort,10000,Ordenado decrescente,27423.9,3,int
+QuickSort,10000,Ordenado decrescente,311.7,3,int
+ShellSort,10000,Ordenado decrescente,1043.7,3,int
+MergeSort,10000,Ordenado decrescente,3364.4,3,int
+BubbleSort,100000,Ordenado decrescente,2269255.9,3,int
+QuickSort,100000,Ordenado decrescente,3201.3,3,int
+ShellSort,100000,Ordenado decrescente,3218.1,3,int
+MergeSort,100000,Ordenado decrescente,9120.5,3,int
+BubbleSort,500000,Ordenado decrescente,56805549.8,3,int
+QuickSort,500000,Ordenado decrescente,17166.0,3,int
+ShellSort,500000,Ordenado decrescente,8615.7,3,int
+MergeSort,500000,Ordenado decrescente,25682.9,3,int
+BubbleSort,10000,Aleatório,26956.4,3,int
+QuickSort,10000,Aleatório,476.7,3,int
+ShellSort,10000,Aleatório,538.6,3,int
+MergeSort,10000,Aleatório,904.2,3,int
+BubbleSort,100000,Aleatório,7813202.2,3,int
+QuickSort,100000,Aleatório,6416.1,3,int
+ShellSort,100000,Aleatório,6771.9,3,int
+MergeSort,100000,Aleatório,9905.4,3,int
+BubbleSort,500000,Aleatório,201698596.5,3,int
+QuickSort,500000,Aleatório,50169.0,3,int
+ShellSort,500000,Aleatório,37625.0,3,int
+MergeSort,500000,Aleatório,41949.7,3,int
+BubbleSort,10000,Ordenado crescente,12673.7,3,int
+QuickSort,10000,Ordenado crescente,1421.4,3,int
+ShellSort,10000,Ordenado crescente,2172.5,3,int
+MergeSort,10000,Ordenado crescente,1327.2,3,int
+BubbleSort,100000,Ordenado crescente,686983.5,3,int
+QuickSort,100000,Ordenado crescente,2901.7,3,int
+ShellSort,100000,Ordenado crescente,414.3,3,int
+MergeSort,100000,Ordenado crescente,5487.3,3,int
+BubbleSort,500000,Ordenado crescente,17035279.6,3,int
+QuickSort,500000,Ordenado crescente,15738.4,3,int
+ShellSort,500000,Ordenado crescente,1614.8,3,int
+MergeSort,500000,Ordenado crescente,21792.9,3,int
+BubbleSort,10000,Ordenado decrescente,28067.9,3,int
+QuickSort,10000,Ordenado decrescente,313.6,3,int
+ShellSort,10000,Ordenado decrescente,1249.9,3,int
+MergeSort,10000,Ordenado decrescente,1315.0,3,int
+BubbleSort,100000,Ordenado decrescente,2272222.6,3,int
+QuickSort,100000,Ordenado decrescente,3265.4,3,int
+ShellSort,100000,Ordenado decrescente,3579.3,3,int
+MergeSort,100000,Ordenado decrescente,9265.5,3,int
+BubbleSort,500000,Ordenado decrescente,56888092.8,3,int
+QuickSort,500000,Ordenado decrescente,16987.8,3,int
+ShellSort,500000,Ordenado decrescente,8769.4,3,int
+MergeSort,500000,Ordenado decrescente,27029.6,3,int
+BubbleSort,10000,Aleatório,27085.7,3,int
+QuickSort,10000,Aleatório,471.0,3,int
+ShellSort,10000,Aleatório,543.7,3,int
+MergeSort,10000,Aleatório,736.3,3,int
+BubbleSort,100000,Aleatório,7659074.0,3,int
+QuickSort,100000,Aleatório,6138.2,3,int
+ShellSort,100000,Aleatório,6585.1,3,int
+MergeSort,100000,Aleatório,7824.9,3,int
+BubbleSort,500000,Aleatório,198270945.4,3,int
+QuickSort,500000,Aleatório,50576.4,3,int
+ShellSort,500000,Aleatório,38144.5,3,int
+MergeSort,500000,Aleatório,41587.8,3,int
+BubbleSort,10000,Ordenado crescente,12548.6,3,int
+QuickSort,10000,Ordenado crescente,1431.7,3,int
+ShellSort,10000,Ordenado crescente,2258.9,3,int
+MergeSort,10000,Ordenado crescente,1351.3,3,int
+BubbleSort,100000,Ordenado crescente,688808.3,3,int
+QuickSort,100000,Ordenado crescente,3114.0,3,int
+ShellSort,100000,Ordenado crescente,4506.8,3,int
+MergeSort,100000,Ordenado crescente,5805.9,3,int
+BubbleSort,500000,Ordenado crescente,17034447.9,3,int
+QuickSort,500000,Ordenado crescente,15255.3,3,int
+ShellSort,500000,Ordenado crescente,1581.2,3,int
+MergeSort,500000,Ordenado crescente,21201.0,3,int
+BubbleSort,10000,Ordenado decrescente,28267.9,3,int
+QuickSort,10000,Ordenado decrescente,291.8,3,int
+ShellSort,10000,Ordenado decrescente,1029.9,3,int
+MergeSort,10000,Ordenado decrescente,1290.4,3,int
+BubbleSort,100000,Ordenado decrescente,2269141.2,3,int
+QuickSort,100000,Ordenado decrescente,3149.7,3,int
+ShellSort,100000,Ordenado decrescente,3405.3,3,int
+MergeSort,100000,Ordenado decrescente,9479.3,3,int
+BubbleSort,500000,Ordenado decrescente,56845070.1,3,int
+QuickSort,500000,Ordenado decrescente,16870.7,3,int
+ShellSort,500000,Ordenado decrescente,9084.6,3,int
+MergeSort,500000,Ordenado decrescente,25211.1,3,int
+BubbleSort,10000,Aleatório,26617.7,3,int
+QuickSort,10000,Aleatório,484.0,3,int
+ShellSort,10000,Aleatório,538.5,3,int
+MergeSort,10000,Aleatório,834.3,3,int
+BubbleSort,100000,Aleatório,7648404.2,3,int
+QuickSort,100000,Aleatório,6677.9,3,int
+ShellSort,100000,Aleatório,6710.1,3,int
+MergeSort,100000,Aleatório,9967.1,3,int
+BubbleSort,500000,Aleatório,198257853.6,3,int
+QuickSort,500000,Aleatório,69092.4,3,int
+ShellSort,500000,Aleatório,36292.3,3,int
+MergeSort,500000,Aleatório,42650.5,3,int
+BubbleSort,10000,Ordenado crescente,12899.5,3,int
+QuickSort,10000,Ordenado crescente,1312.6,3,int
+ShellSort,10000,Ordenado crescente,2318.7,3,int
+MergeSort,10000,Ordenado crescente,1333.0,3,int
+BubbleSort,100000,Ordenado crescente,687117.4,3,int
+QuickSort,100000,Ordenado crescente,2854.5,3,int
+ShellSort,100000,Ordenado crescente,385.6,3,int
+MergeSort,100000,Ordenado crescente,5744.2,3,int
+BubbleSort,500000,Ordenado crescente,17056574.2,3,int
+QuickSort,500000,Ordenado crescente,15145.7,3,int
+ShellSort,500000,Ordenado crescente,1563.3,3,int
+MergeSort,500000,Ordenado crescente,21950.0,3,int
+BubbleSort,10000,Ordenado decrescente,27792.2,3,int
+QuickSort,10000,Ordenado decrescente,296.0,3,int
+ShellSort,10000,Ordenado decrescente,1022.3,3,int
+MergeSort,10000,Ordenado decrescente,1258.9,3,int
+BubbleSort,100000,Ordenado decrescente,2267425.9,3,int
+QuickSort,100000,Ordenado decrescente,3066.6,3,int
+ShellSort,100000,Ordenado decrescente,3359.7,3,int
+MergeSort,100000,Ordenado decrescente,9368.0,3,int
+BubbleSort,500000,Ordenado decrescente,56756577.7,3,int
+QuickSort,500000,Ordenado decrescente,16342.3,3,int
+ShellSort,500000,Ordenado decrescente,9090.2,3,int
+MergeSort,500000,Ordenado decrescente,25674.7,3,int
+BubbleSort,10000,Aleatório,26911.9,3,int
+QuickSort,10000,Aleatório,471.4,3,int
+ShellSort,10000,Aleatório,557.0,3,int
+MergeSort,10000,Aleatório,906.5,3,int
+BubbleSort,100000,Aleatório,7815894.1,3,int
+QuickSort,100000,Aleatório,6620.1,3,int
+ShellSort,100000,Aleatório,6768.5,3,int
+MergeSort,100000,Aleatório,9996.9,3,int
+BubbleSort,500000,Aleatório,201899389.8,3,int
+QuickSort,500000,Aleatório,70197.8,3,int
+ShellSort,500000,Aleatório,37436.4,3,int
+MergeSort,500000,Aleatório,42962.7,3,int
+BubbleSort,10000,Ordenado crescente,12683.7,3,int
+QuickSort,10000,Ordenado crescente,1585.5,3,int
+ShellSort,10000,Ordenado crescente,2359.2,3,int
+MergeSort,10000,Ordenado crescente,1345.5,3,int
+BubbleSort,100000,Ordenado crescente,684812.2,3,int
+QuickSort,100000,Ordenado crescente,2921.0,3,int
+ShellSort,100000,Ordenado crescente,4496.5,3,int
+MergeSort,100000,Ordenado crescente,5397.3,3,int
+BubbleSort,500000,Ordenado crescente,17046375.2,3,int
+QuickSort,500000,Ordenado crescente,14925.7,3,int
+ShellSort,500000,Ordenado crescente,1579.3,3,int
+MergeSort,500000,Ordenado crescente,21459.5,3,int
+BubbleSort,10000,Ordenado decrescente,27314.8,3,int
+QuickSort,10000,Ordenado decrescente,292.5,3,int
+ShellSort,10000,Ordenado decrescente,995.6,3,int
+MergeSort,10000,Ordenado decrescente,1133.3,3,int
+BubbleSort,100000,Ordenado decrescente,2266991.3,3,int
+QuickSort,100000,Ordenado decrescente,3089.0,3,int
+ShellSort,100000,Ordenado decrescente,3307.2,3,int
+MergeSort,100000,Ordenado decrescente,17792.0,3,int
+BubbleSort,500000,Ordenado decrescente,56815097.0,3,int
+QuickSort,500000,Ordenado decrescente,16414.3,3,int
+ShellSort,500000,Ordenado decrescente,9129.0,3,int
+MergeSort,500000,Ordenado decrescente,27315.1,3,int
+BubbleSort,10000,Aleatório,26576.1,3,int
+QuickSort,10000,Aleatório,468.8,3,int
+ShellSort,10000,Aleatório,539.5,3,int
+MergeSort,10000,Aleatório,718.6,3,int
+BubbleSort,100000,Aleatório,7649610.3,3,int
+QuickSort,100000,Aleatório,6655.7,3,int
+ShellSort,100000,Aleatório,6624.6,3,int
+MergeSort,100000,Aleatório,7729.9,3,int
+BubbleSort,500000,Aleatório,198292317.5,3,int
+QuickSort,500000,Aleatório,68671.7,3,int
+ShellSort,500000,Aleatório,37222.1,3,int
+MergeSort,500000,Aleatório,41366.4,3,int
+BubbleSort,10000,Ordenado crescente,12766.7,3,int
+QuickSort,10000,Ordenado crescente,1648.1,3,int
+ShellSort,10000,Ordenado crescente,2814.1,3,int
+MergeSort,10000,Ordenado crescente,1559.6,3,int
+BubbleSort,100000,Ordenado crescente,693682.1,3,int
+QuickSort,100000,Ordenado crescente,3034.7,3,int
+ShellSort,100000,Ordenado crescente,409.4,3,int
+MergeSort,100000,Ordenado crescente,6056.9,3,int
+BubbleSort,500000,Ordenado crescente,17085190.5,3,int
+QuickSort,500000,Ordenado crescente,16173.9,3,int
+ShellSort,500000,Ordenado crescente,1618.8,3,int
+MergeSort,500000,Ordenado crescente,22455.3,3,int
+BubbleSort,10000,Ordenado decrescente,28253.8,3,int
+QuickSort,10000,Ordenado decrescente,314.4,3,int
+ShellSort,10000,Ordenado decrescente,1000.4,3,int
+MergeSort,10000,Ordenado decrescente,1330.2,3,int
+BubbleSort,100000,Ordenado decrescente,2267496.7,3,int
+QuickSort,100000,Ordenado decrescente,3365.1,3,int
+ShellSort,100000,Ordenado decrescente,3262.2,3,int
+MergeSort,100000,Ordenado decrescente,9639.7,3,int
+BubbleSort,500000,Ordenado decrescente,56811577.6,3,int
+QuickSort,500000,Ordenado decrescente,17367.4,3,int
+ShellSort,500000,Ordenado decrescente,9140.6,3,int
+MergeSort,500000,Ordenado decrescente,27096.9,3,int
+BubbleSort,10000,Aleatório,26895.9,3,int
+QuickSort,10000,Aleatório,475.7,3,int
+ShellSort,10000,Aleatório,544.1,3,int
+MergeSort,10000,Aleatório,719.8,3,int
+BubbleSort,100000,Aleatório,7788604.7,3,int
+QuickSort,100000,Aleatório,6019.4,3,int
+ShellSort,100000,Aleatório,6786.2,3,int
+MergeSort,100000,Aleatório,7737.2,3,int
+BubbleSort,500000,Aleatório,201882350.7,3,int
+QuickSort,500000,Aleatório,50075.7,3,int
+ShellSort,500000,Aleatório,36985.3,3,int
+MergeSort,500000,Aleatório,41103.5,3,int
+BubbleSort,10000,Ordenado crescente,12784.8,3,int
+QuickSort,10000,Ordenado crescente,1343.3,3,int
+ShellSort,10000,Ordenado crescente,2277.5,3,int
+MergeSort,10000,Ordenado crescente,1560.4,3,int
+BubbleSort,100000,Ordenado crescente,722775.2,3,int
+QuickSort,100000,Ordenado crescente,2839.4,3,int
+ShellSort,100000,Ordenado crescente,399.9,3,int
+MergeSort,100000,Ordenado crescente,5298.2,3,int
+BubbleSort,500000,Ordenado crescente,17072323.3,3,int
+QuickSort,500000,Ordenado crescente,14830.8,3,int
+ShellSort,500000,Ordenado crescente,1618.4,3,int
+MergeSort,500000,Ordenado crescente,21956.7,3,int
+BubbleSort,10000,Ordenado decrescente,27698.7,3,int
+QuickSort,10000,Ordenado decrescente,291.2,3,int
+ShellSort,10000,Ordenado decrescente,1018.4,3,int
+MergeSort,10000,Ordenado decrescente,3611.4,3,int
+BubbleSort,100000,Ordenado decrescente,2270149.2,3,int
+QuickSort,100000,Ordenado decrescente,3172.8,3,int
+ShellSort,100000,Ordenado decrescente,3328.3,3,int
+MergeSort,100000,Ordenado decrescente,9291.0,3,int
+BubbleSort,500000,Ordenado decrescente,56833761.8,3,int
+QuickSort,500000,Ordenado decrescente,16430.5,3,int
+ShellSort,500000,Ordenado decrescente,9092.6,3,int
+MergeSort,500000,Ordenado decrescente,28839.0,3,int
+BubbleSort,10000,Aleatório,27142.5,3,int
+QuickSort,10000,Aleatório,471.4,3,int
+ShellSort,10000,Aleatório,553.3,3,int
+MergeSort,10000,Aleatório,722.3,3,int
+BubbleSort,100000,Aleatório,7640243.8,3,int
+QuickSort,100000,Aleatório,6621.6,3,int
+ShellSort,100000,Aleatório,6750.4,3,int
+MergeSort,100000,Aleatório,7805.7,3,int
+BubbleSort,500000,Aleatório,197845272.3,3,int
+QuickSort,500000,Aleatório,72142.8,3,int
+ShellSort,500000,Aleatório,37824.0,3,int
+MergeSort,500000,Aleatório,41923.1,3,int
+BubbleSort,10000,Ordenado crescente,12574.8,3,int
+QuickSort,10000,Ordenado crescente,1577.5,3,int
+ShellSort,10000,Ordenado crescente,2193.1,3,int
+MergeSort,10000,Ordenado crescente,1355.1,3,int
+BubbleSort,100000,Ordenado crescente,700437.6,3,int
+QuickSort,100000,Ordenado crescente,3005.7,3,int
+ShellSort,100000,Ordenado crescente,398.1,3,int
+MergeSort,100000,Ordenado crescente,5362.6,3,int
+BubbleSort,500000,Ordenado crescente,17121236.0,3,int
+QuickSort,500000,Ordenado crescente,15904.6,3,int
+ShellSort,500000,Ordenado crescente,1570.1,3,int
+MergeSort,500000,Ordenado crescente,21529.8,3,int
+BubbleSort,10000,Ordenado decrescente,27447.5,3,int
+QuickSort,10000,Ordenado decrescente,310.9,3,int
+ShellSort,10000,Ordenado decrescente,997.3,3,int
+MergeSort,10000,Ordenado decrescente,3418.1,3,int
+BubbleSort,100000,Ordenado decrescente,2267589.2,3,int
+QuickSort,100000,Ordenado decrescente,3406.3,3,int
+ShellSort,100000,Ordenado decrescente,3497.3,3,int
+MergeSort,100000,Ordenado decrescente,9293.3,3,int
+BubbleSort,500000,Ordenado decrescente,56815083.7,3,int
+QuickSort,500000,Ordenado decrescente,17244.6,3,int
+ShellSort,500000,Ordenado decrescente,9115.4,3,int
+MergeSort,500000,Ordenado decrescente,28894.5,3,int
+BubbleSort,10000,Aleatório,26890.4,3,int
+QuickSort,10000,Aleatório,472.9,3,int
+ShellSort,10000,Aleatório,554.1,3,int
+MergeSort,10000,Aleatório,719.5,3,int
+BubbleSort,100000,Aleatório,7816059.5,3,int
+QuickSort,100000,Aleatório,6081.4,3,int
+ShellSort,100000,Aleatório,6715.9,3,int
+MergeSort,100000,Aleatório,7825.8,3,int
+BubbleSort,500000,Aleatório,201850564.2,3,int
+QuickSort,500000,Aleatório,50450.4,3,int
+ShellSort,500000,Aleatório,38579.3,3,int
+MergeSort,500000,Aleatório,42160.8,3,int
+BubbleSort,10000,Ordenado crescente,16960.9,3,int
+QuickSort,10000,Ordenado crescente,1446.6,3,int
+ShellSort,10000,Ordenado crescente,2326.9,3,int
+MergeSort,10000,Ordenado crescente,1459.5,3,int
+BubbleSort,100000,Ordenado crescente,686435.4,3,int
+QuickSort,100000,Ordenado crescente,2857.0,3,int
+ShellSort,100000,Ordenado crescente,4461.1,3,int
+MergeSort,100000,Ordenado crescente,5412.0,3,int
+BubbleSort,500000,Ordenado crescente,17042646.6,3,int
+QuickSort,500000,Ordenado crescente,15134.4,3,int
+ShellSort,500000,Ordenado crescente,1579.2,3,int
+MergeSort,500000,Ordenado crescente,21535.2,3,int
+BubbleSort,10000,Ordenado decrescente,26939.4,3,int
+QuickSort,10000,Ordenado decrescente,294.1,3,int
+ShellSort,10000,Ordenado decrescente,1023.2,3,int
+MergeSort,10000,Ordenado decrescente,1114.8,3,int
+BubbleSort,100000,Ordenado decrescente,2267396.1,3,int
+QuickSort,100000,Ordenado decrescente,3081.1,3,int
+ShellSort,100000,Ordenado decrescente,3427.7,3,int
+MergeSort,100000,Ordenado decrescente,18237.6,3,int
+BubbleSort,500000,Ordenado decrescente,56828171.2,3,int
+QuickSort,500000,Ordenado decrescente,16637.4,3,int
+ShellSort,500000,Ordenado decrescente,9145.0,3,int
+MergeSort,500000,Ordenado decrescente,27703.0,3,int
+BubbleSort,10000,Aleatório,26695.4,3,int
+QuickSort,10000,Aleatório,456.4,3,int
+ShellSort,10000,Aleatório,535.5,3,int
+MergeSort,10000,Aleatório,721.5,3,int
+BubbleSort,100000,Aleatório,7630528.6,3,int
+QuickSort,100000,Aleatório,6569.4,3,int
+ShellSort,100000,Aleatório,6573.9,3,int
+MergeSort,100000,Aleatório,7691.1,3,int
+BubbleSort,500000,Aleatório,198350638.8,3,int
+QuickSort,500000,Aleatório,69440.7,3,int
+ShellSort,500000,Aleatório,37706.6,3,int
+MergeSort,500000,Aleatório,41184.0,3,int
+BubbleSort,10000,Ordenado crescente,13047.9,3,int
+QuickSort,10000,Ordenado crescente,1461.8,3,int
+ShellSort,10000,Ordenado crescente,2224.2,3,int
+MergeSort,10000,Ordenado crescente,1582.1,3,int
+BubbleSort,100000,Ordenado crescente,690586.0,3,int
+QuickSort,100000,Ordenado crescente,3029.6,3,int
+ShellSort,100000,Ordenado crescente,4464.5,3,int
+MergeSort,100000,Ordenado crescente,5179.9,3,int
+BubbleSort,500000,Ordenado crescente,17034262.0,3,int
+QuickSort,500000,Ordenado crescente,16054.9,3,int
+ShellSort,500000,Ordenado crescente,1722.7,3,int
+MergeSort,500000,Ordenado crescente,21466.5,3,int
+BubbleSort,10000,Ordenado decrescente,27539.0,3,int
+QuickSort,10000,Ordenado decrescente,307.2,3,int
+ShellSort,10000,Ordenado decrescente,1213.8,3,int
+MergeSort,10000,Ordenado decrescente,1073.5,3,int
+BubbleSort,100000,Ordenado decrescente,2268421.2,3,int
+QuickSort,100000,Ordenado decrescente,3321.6,3,int
+ShellSort,100000,Ordenado decrescente,3152.7,3,int
+MergeSort,100000,Ordenado decrescente,9648.8,3,int
+BubbleSort,500000,Ordenado decrescente,56833624.9,3,int
+QuickSort,500000,Ordenado decrescente,17038.6,3,int
+ShellSort,500000,Ordenado decrescente,9163.9,3,int
+MergeSort,500000,Ordenado decrescente,27296.4,3,int
+BubbleSort,10000,Aleatório,27935.0,3,int
+QuickSort,10000,Aleatório,482.9,3,int
+ShellSort,10000,Aleatório,542.1,3,int
+MergeSort,10000,Aleatório,726.7,3,int
+BubbleSort,100000,Aleatório,7806673.0,3,int
+QuickSort,100000,Aleatório,6021.9,3,int
+ShellSort,100000,Aleatório,6611.4,3,int
+MergeSort,100000,Aleatório,7726.9,3,int
+BubbleSort,500000,Aleatório,201809849.2,3,int
+QuickSort,500000,Aleatório,51189.3,3,int
+ShellSort,500000,Aleatório,36916.2,3,int
+MergeSort,500000,Aleatório,43783.4,3,int
+BubbleSort,10000,Ordenado crescente,13061.9,3,int
+QuickSort,10000,Ordenado crescente,2060.3,3,int
+ShellSort,10000,Ordenado crescente,2450.7,3,int
+MergeSort,10000,Ordenado crescente,1380.3,3,int
+BubbleSort,100000,Ordenado crescente,685909.6,3,int
+QuickSort,100000,Ordenado crescente,2999.7,3,int
+ShellSort,100000,Ordenado crescente,4587.9,3,int
+MergeSort,100000,Ordenado crescente,5280.6,3,int
+BubbleSort,500000,Ordenado crescente,17046408.7,3,int
+QuickSort,500000,Ordenado crescente,15440.2,3,int
+ShellSort,500000,Ordenado crescente,1613.0,3,int
+MergeSort,500000,Ordenado crescente,21669.7,3,int
+BubbleSort,10000,Ordenado decrescente,27228.0,3,int
+QuickSort,10000,Ordenado decrescente,311.0,3,int
+ShellSort,10000,Ordenado decrescente,1008.2,3,int
+MergeSort,10000,Ordenado decrescente,1513.9,3,int
+BubbleSort,100000,Ordenado decrescente,2268432.3,3,int
+QuickSort,100000,Ordenado decrescente,3338.0,3,int
+ShellSort,100000,Ordenado decrescente,3357.1,3,int
+MergeSort,100000,Ordenado decrescente,9509.7,3,int
+BubbleSort,500000,Ordenado decrescente,56783908.8,3,int
+QuickSort,500000,Ordenado decrescente,16918.4,3,int
+ShellSort,500000,Ordenado decrescente,9156.9,3,int
+MergeSort,500000,Ordenado decrescente,25417.9,3,int
+BubbleSort,10000,Aleatório,26382.6,3,int
+QuickSort,10000,Aleatório,468.7,3,int
+ShellSort,10000,Aleatório,545.6,3,int
+MergeSort,10000,Aleatório,907.5,3,int
+BubbleSort,100000,Aleatório,7716695.8,3,int
+QuickSort,100000,Aleatório,6076.9,3,int
+ShellSort,100000,Aleatório,6736.6,3,int
+MergeSort,100000,Aleatório,10979.6,3,int
+BubbleSort,500000,Aleatório,200026068.5,3,int
+QuickSort,500000,Aleatório,50457.7,3,int
+ShellSort,500000,Aleatório,36557.0,3,int
+MergeSort,500000,Aleatório,41030.9,3,int
+BubbleSort,10000,Ordenado crescente,12349.6,3,int
+QuickSort,10000,Ordenado crescente,1642.8,3,int
+ShellSort,10000,Ordenado crescente,2270.9,3,int
+MergeSort,10000,Ordenado crescente,1378.9,3,int
+BubbleSort,100000,Ordenado crescente,686387.0,3,int
+QuickSort,100000,Ordenado crescente,2907.3,3,int
+ShellSort,100000,Ordenado crescente,4555.4,3,int
+MergeSort,100000,Ordenado crescente,5422.7,3,int
+BubbleSort,500000,Ordenado crescente,17031644.0,3,int
+QuickSort,500000,Ordenado crescente,14831.9,3,int
+ShellSort,500000,Ordenado crescente,1640.8,3,int
+MergeSort,500000,Ordenado crescente,21423.2,3,int
+BubbleSort,10000,Ordenado decrescente,27626.4,3,int
+QuickSort,10000,Ordenado decrescente,299.1,3,int
+ShellSort,10000,Ordenado decrescente,1034.8,3,int
+MergeSort,10000,Ordenado decrescente,1257.4,3,int
+BubbleSort,100000,Ordenado decrescente,2288289.3,3,int
+QuickSort,100000,Ordenado decrescente,3082.5,3,int
+ShellSort,100000,Ordenado decrescente,3397.2,3,int
+MergeSort,100000,Ordenado decrescente,9633.7,3,int
+BubbleSort,500000,Ordenado decrescente,57265852.1,3,int
+QuickSort,500000,Ordenado decrescente,16407.2,3,int
+ShellSort,500000,Ordenado decrescente,9079.3,3,int
+MergeSort,500000,Ordenado decrescente,28763.2,3,int
+BubbleSort,10000,Aleatório,27193.9,3,int
+QuickSort,10000,Aleatório,457.8,3,int
+ShellSort,10000,Aleatório,541.8,3,int
+MergeSort,10000,Aleatório,723.3,3,int
+BubbleSort,100000,Aleatório,7712256.5,3,int
+QuickSort,100000,Aleatório,6638.6,3,int
+ShellSort,100000,Aleatório,6557.7,3,int
+MergeSort,100000,Aleatório,7846.9,3,int
+BubbleSort,500000,Aleatório,199181901.6,3,int
+QuickSort,500000,Aleatório,69247.5,3,int
+ShellSort,500000,Aleatório,37166.1,3,int
+MergeSort,500000,Aleatório,42231.3,3,int
+BubbleSort,10000,Ordenado crescente,12779.6,3,int
+QuickSort,10000,Ordenado crescente,2166.4,3,int
+ShellSort,10000,Ordenado crescente,2368.9,3,int
+MergeSort,10000,Ordenado crescente,1367.9,3,int
+BubbleSort,100000,Ordenado crescente,689417.8,3,int
+QuickSort,100000,Ordenado crescente,3114.4,3,int
+ShellSort,100000,Ordenado crescente,406.1,3,int
+MergeSort,100000,Ordenado crescente,5318.8,3,int
+BubbleSort,500000,Ordenado crescente,17073009.3,3,int
+QuickSort,500000,Ordenado crescente,15478.6,3,int
+ShellSort,500000,Ordenado crescente,1651.9,3,int
+MergeSort,500000,Ordenado crescente,21924.0,3,int
+BubbleSort,10000,Ordenado decrescente,27034.0,3,int
+QuickSort,10000,Ordenado decrescente,300.5,3,int
+ShellSort,10000,Ordenado decrescente,985.7,3,int
+MergeSort,10000,Ordenado decrescente,1066.8,3,int
+BubbleSort,100000,Ordenado decrescente,2284652.9,3,int
+QuickSort,100000,Ordenado decrescente,3327.8,3,int
+ShellSort,100000,Ordenado decrescente,3410.4,3,int
+MergeSort,100000,Ordenado decrescente,9738.9,3,int
+BubbleSort,500000,Ordenado decrescente,57263183.1,3,int
+QuickSort,500000,Ordenado decrescente,16900.6,3,int
+ShellSort,500000,Ordenado decrescente,9236.9,3,int
+MergeSort,500000,Ordenado decrescente,27127.0,3,int
+BubbleSort,10000,Aleatório,27290.2,3,int
+QuickSort,10000,Aleatório,466.1,3,int
+ShellSort,10000,Aleatório,553.3,3,int
+MergeSort,10000,Aleatório,716.6,3,int
+BubbleSort,100000,Aleatório,7838143.7,3,int
+QuickSort,100000,Aleatório,5999.3,3,int
+ShellSort,100000,Aleatório,6852.5,3,int
+MergeSort,100000,Aleatório,7699.1,3,int
+BubbleSort,500000,Aleatório,202540079.7,3,int
+QuickSort,500000,Aleatório,51833.0,3,int
+ShellSort,500000,Aleatório,37822.8,3,int
+MergeSort,500000,Aleatório,41959.5,3,int
+BubbleSort,10000,Ordenado crescente,12373.2,3,int
+QuickSort,10000,Ordenado crescente,1533.9,3,int
+ShellSort,10000,Ordenado crescente,2699.1,3,int
+MergeSort,10000,Ordenado crescente,1322.3,3,int
+BubbleSort,100000,Ordenado crescente,687635.0,3,int
+QuickSort,100000,Ordenado crescente,2880.0,3,int
+ShellSort,100000,Ordenado crescente,408.8,3,int
+MergeSort,100000,Ordenado crescente,5471.3,3,int
+BubbleSort,500000,Ordenado crescente,17109620.6,3,int
+QuickSort,500000,Ordenado crescente,15418.2,3,int
+ShellSort,500000,Ordenado crescente,1565.4,3,int
+MergeSort,500000,Ordenado crescente,22583.1,3,int
+BubbleSort,10000,Ordenado decrescente,27286.6,3,int
+QuickSort,10000,Ordenado decrescente,295.4,3,int
+ShellSort,10000,Ordenado decrescente,948.1,3,int
+MergeSort,10000,Ordenado decrescente,1108.3,3,int
+BubbleSort,100000,Ordenado decrescente,2285220.0,3,int
+QuickSort,100000,Ordenado decrescente,3242.3,3,int
+ShellSort,100000,Ordenado decrescente,3177.2,3,int
+MergeSort,100000,Ordenado decrescente,9487.2,3,int
+BubbleSort,500000,Ordenado decrescente,57275354.3,3,int
+QuickSort,500000,Ordenado decrescente,16238.6,3,int
+ShellSort,500000,Ordenado decrescente,8769.8,3,int
+MergeSort,500000,Ordenado decrescente,27664.1,3,int
+BubbleSort,10000,Aleatório,27294.2,3,int
+QuickSort,10000,Aleatório,475.0,3,int
+ShellSort,10000,Aleatório,538.7,3,int
+MergeSort,10000,Aleatório,722.7,3,int
+BubbleSort,100000,Aleatório,7827425.9,3,int
+QuickSort,100000,Aleatório,6681.6,3,int
+ShellSort,100000,Aleatório,6419.2,3,int
+MergeSort,100000,Aleatório,7785.1,3,int
+BubbleSort,500000,Aleatório,201900422.5,3,int
+QuickSort,500000,Aleatório,68637.0,3,int
+ShellSort,500000,Aleatório,37094.7,3,int
+MergeSort,500000,Aleatório,41460.0,3,int

@@ -1,0 +1,109 @@
+Algoritmo,Tamanho,Cenario,TempoExecucao,fk,tipo_dado
+BubbleSort,10000,Ordenado crescente,258633.5,3,string
+QuickSort,10000,Ordenado crescente,3839.6,3,string
+ShellSort,10000,Ordenado crescente,4230.1,3,string
+MergeSort,10000,Ordenado crescente,3965.9,3,string
+BubbleSort,100000,Ordenado crescente,33746956.2,3,string
+QuickSort,100000,Ordenado crescente,63799.9,3,string
+ShellSort,100000,Ordenado crescente,10045.7,3,string
+MergeSort,100000,Ordenado crescente,13502.9,3,string
+BubbleSort,500000,Ordenado crescente,1995083725.7,3,string
+QuickSort,500000,Ordenado crescente,2558768.2,3,string
+ShellSort,500000,Ordenado crescente,212222.7,3,string
+MergeSort,500000,Ordenado crescente,79400.8,3,string
+BubbleSort,10000,Ordenado decrescente,267439.6,3,string
+QuickSort,10000,Ordenado decrescente,1293.6,3,string
+ShellSort,10000,Ordenado decrescente,2397.8,3,string
+MergeSort,10000,Ordenado decrescente,7345.4,3,string
+BubbleSort,100000,Ordenado decrescente,32441295.7,3,string
+QuickSort,100000,Ordenado decrescente,63771.8,3,string
+ShellSort,100000,Ordenado decrescente,20463.4,3,string
+MergeSort,100000,Ordenado decrescente,19030.9,3,string
+BubbleSort,500000,Ordenado decrescente,2106687711.8,3,string
+QuickSort,500000,Ordenado decrescente,2537794.2,3,string
+ShellSort,500000,Ordenado decrescente,262592.1,3,string
+MergeSort,500000,Ordenado decrescente,95956.8,3,string
+BubbleSort,10000,Aleatório,326266.2,3,string
+QuickSort,10000,Aleatório,1903.8,3,string
+ShellSort,10000,Aleatório,2642.1,3,string
+MergeSort,10000,Aleatório,1350.3,3,string
+BubbleSort,100000,Aleatório,39000413.3,3,string
+QuickSort,100000,Aleatório,66751.2,3,string
+ShellSort,100000,Aleatório,35402.1,3,string
+MergeSort,100000,Aleatório,16479.5,3,string
+BubbleSort,500000,Aleatório,1293547276.6,3,string
+QuickSort,500000,Aleatório,2463473.9,3,string
+ShellSort,500000,Aleatório,322290.1,3,string
+MergeSort,500000,Aleatório,101943.9,3,string
+BubbleSort,10000,Ordenado crescente,264859.1,3,string
+QuickSort,10000,Ordenado crescente,3841.3,3,string
+ShellSort,10000,Ordenado crescente,4044.5,3,string
+MergeSort,10000,Ordenado crescente,3701.4,3,string
+BubbleSort,100000,Ordenado crescente,36190880.5,3,string
+QuickSort,100000,Ordenado crescente,64095.4,3,string
+ShellSort,100000,Ordenado crescente,10968.4,3,string
+MergeSort,100000,Ordenado crescente,15450.1,3,string
+BubbleSort,500000,Ordenado crescente,1988282357.1,3,string
+QuickSort,500000,Ordenado crescente,2541719.7,3,string
+ShellSort,500000,Ordenado crescente,216252.3,3,string
+MergeSort,500000,Ordenado crescente,81356.5,3,string
+BubbleSort,10000,Ordenado decrescente,276407.4,3,string
+QuickSort,10000,Ordenado decrescente,1383.3,3,string
+ShellSort,10000,Ordenado decrescente,2604.6,3,string
+MergeSort,10000,Ordenado decrescente,3967.7,3,string
+BubbleSort,100000,Ordenado decrescente,32886830.2,3,string
+QuickSort,100000,Ordenado decrescente,64742.7,3,string
+ShellSort,100000,Ordenado decrescente,18302.7,3,string
+MergeSort,100000,Ordenado decrescente,28271.9,3,string
+BubbleSort,500000,Ordenado decrescente,703942946.3,3,string
+QuickSort,500000,Ordenado decrescente,1184035.0,3,string
+ShellSort,500000,Ordenado decrescente,50641.8,3,string
+MergeSort,500000,Ordenado decrescente,39326.2,3,string
+BubbleSort,10000,Aleatório,322192.9,3,string
+QuickSort,10000,Aleatório,1730.3,3,string
+ShellSort,10000,Aleatório,2475.0,3,string
+MergeSort,10000,Aleatório,1385.5,3,string
+BubbleSort,100000,Aleatório,39407962.4,3,string
+QuickSort,100000,Aleatório,67207.5,3,string
+ShellSort,100000,Aleatório,34768.1,3,string
+MergeSort,100000,Aleatório,29611.0,3,string
+BubbleSort,500000,Aleatório,2145330702.0,3,string
+QuickSort,500000,Aleatório,2702951.9,3,string
+ShellSort,500000,Aleatório,528889.5,3,string
+MergeSort,500000,Aleatório,130677.0,3,string
+BubbleSort,10000,Ordenado crescente,259078.3,3,string
+QuickSort,10000,Ordenado crescente,4097.5,3,string
+ShellSort,10000,Ordenado crescente,3845.3,3,string
+MergeSort,10000,Ordenado crescente,3849.2,3,string
+BubbleSort,100000,Ordenado crescente,35297073.2,3,string
+QuickSort,100000,Ordenado crescente,69022.4,3,string
+ShellSort,100000,Ordenado crescente,11242.9,3,string
+MergeSort,100000,Ordenado crescente,13858.9,3,string
+BubbleSort,500000,Ordenado crescente,2138266113.2,3,string
+QuickSort,500000,Ordenado crescente,2784463.2,3,string
+ShellSort,500000,Ordenado crescente,212216.2,3,string
+MergeSort,500000,Ordenado crescente,82307.5,3,string
+BubbleSort,10000,Ordenado decrescente,285762.2,3,string
+QuickSort,10000,Ordenado decrescente,1427.9,3,string
+ShellSort,10000,Ordenado decrescente,2887.7,3,string
+MergeSort,10000,Ordenado decrescente,4062.8,3,string
+BubbleSort,100000,Ordenado decrescente,33123954.9,3,string
+QuickSort,100000,Ordenado decrescente,67450.8,3,string
+ShellSort,100000,Ordenado decrescente,20922.9,3,string
+MergeSort,100000,Ordenado decrescente,28135.0,3,string
+BubbleSort,500000,Ordenado decrescente,703895111.4,3,string
+QuickSort,500000,Ordenado decrescente,1284548.9,3,string
+ShellSort,500000,Ordenado decrescente,50178.2,3,string
+MergeSort,500000,Ordenado decrescente,39333.5,3,string
+BubbleSort,10000,Aleatório,323388.5,3,string
+QuickSort,10000,Aleatório,1923.9,3,string
+ShellSort,10000,Aleatório,2636.8,3,string
+MergeSort,10000,Aleatório,1379.6,3,string
+BubbleSort,100000,Aleatório,39150057.8,3,string
+QuickSort,100000,Aleatório,67999.6,3,string
+ShellSort,100000,Aleatório,34872.1,3,string
+MergeSort,100000,Aleatório,31310.1,3,string
+BubbleSort,500000,Aleatório,2033947216.5,3,string
+QuickSort,500000,Aleatório,2924623.2,3,string
+ShellSort,500000,Aleatório,519207.9,3,string
+MergeSort,500000,Aleatório,132972.2,3,string
